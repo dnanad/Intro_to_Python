@@ -1,4 +1,6 @@
 # Introduction to Python at Data Science Retreat 
+This Repo is used for my Introduction to Python Class at Data Science Retreat: https://datascienceretreat.com/
+
 
 ## Topics:
 1. Introduction: 
@@ -21,4 +23,4 @@
   - Working with Arg Parse
 
 CREDITS:
-A significant portion of this course came from Adam Green, https://github.com/ADGEfficiency . 
+A significant portion of this course came from Rachel Berryman, https://github.com/rachelkberryman.
